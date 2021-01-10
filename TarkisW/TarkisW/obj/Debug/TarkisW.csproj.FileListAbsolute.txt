@@ -1,0 +1,11 @@
+F:\TarkisW\TarkisW\10012021\TarkisW\TarkisW\bin\Debug\TarkisW.exe.config
+F:\TarkisW\TarkisW\10012021\TarkisW\TarkisW\bin\Debug\TarkisW.exe
+F:\TarkisW\TarkisW\10012021\TarkisW\TarkisW\bin\Debug\TarkisW.pdb
+F:\TarkisW\TarkisW\10012021\TarkisW\TarkisW\obj\Debug\TarkisW.csprojAssemblyReference.cache
+F:\TarkisW\TarkisW\10012021\TarkisW\TarkisW\obj\Debug\TarkisW.g.resources
+F:\TarkisW\TarkisW\10012021\TarkisW\TarkisW\obj\Debug\TarkisW.Form1.resources
+F:\TarkisW\TarkisW\10012021\TarkisW\TarkisW\obj\Debug\TarkisW.Properties.Resources.resources
+F:\TarkisW\TarkisW\10012021\TarkisW\TarkisW\obj\Debug\TarkisW.csproj.GenerateResource.cache
+F:\TarkisW\TarkisW\10012021\TarkisW\TarkisW\obj\Debug\TarkisW.csproj.CoreCompileInputs.cache
+F:\TarkisW\TarkisW\10012021\TarkisW\TarkisW\obj\Debug\TarkisW.exe
+F:\TarkisW\TarkisW\10012021\TarkisW\TarkisW\obj\Debug\TarkisW.pdb
